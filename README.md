@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently persuing my masters in Computer Science in Northwest Missouri State University.
 
 <!--
 **sravanthit1/sravanthit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
